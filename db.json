@@ -1,0 +1,56 @@
+{
+  "quickActions": [
+    {
+      "label": "Add Users",
+      "iconClass": "fas fa-user-plus",
+      "color": "#EFF9F1",
+      "iconColor": "#46CE5F"
+    },
+    {
+      "label": "Add Admins",
+      "iconClass": "fas fa-crown",
+      "color": "#FEF3FF",
+      "iconColor": "#8D7EF9"
+    },
+    {
+      "label": "Add a Task",
+      "iconClass": "fas fa-tasks",
+      "color": "#FFEFF6",
+      "iconColor": "#CD457D"
+    },
+    {
+      "label": "Send an Update",
+      "iconClass": "fas fa-paper-plane",
+      "color": "#F0F7FF",
+      "iconColor": "#4EA3FF"
+    }
+  ],
+  "jobUsers": [
+    {
+      "name": "Angela Dee",
+      "progress": 50
+    },
+    {
+      "name": "Angelo Gonzales",
+      "progress": 35
+    },
+    {
+      "name": "Tyron Makabali",
+      "progress": 48
+    }
+  ],
+  "events": [
+    {
+      "date": "Jan 20",
+      "description": "Meeting with team"
+    },
+    {
+      "date": "Jan 22",
+      "description": "Project deadline"
+    },
+    {
+      "date": "Jan 25",
+      "description": "Workshop"
+    }
+  ]
+}
